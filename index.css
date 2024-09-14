@@ -498,8 +498,7 @@ span {
 .about {
     /* padding: 100px 15px; */
     width: 100%;
-    /* background: var(--second-bg-color); */
-    background-color: yellow;
+    background-color: var(--second-bg-color); 
 }
 
 .about h2 {
