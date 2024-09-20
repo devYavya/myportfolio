@@ -316,6 +316,7 @@ span{
 {
   padding: 100px 15px;
   display:flex;
+  flex-direction:column;
   background: var(--second-bg-color);
 }
 .about h2{
@@ -463,6 +464,7 @@ line-height:22px;
   backdrop-filter: blur(10px);
   margin: 100px;
   display:flex;
+  flex-direction:column;
   justify-content: center;
 }
 
