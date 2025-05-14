@@ -38,26 +38,17 @@ Here's a summary of the key projects in this portfolio:
 
 I am proficient in the following areas:
 
-- **Languages**: HTML/CSS, JavaScript, C#
-- **Frameworks/Libraries**: React, Node.js, Angular, .NET
-- **Tools & Technologies**: Docker, Kubernetes, Jenkins, Azure Cloud
-- **Other Skills**: DBMS, Testing (Unit/Integration), CI/CD Pipelines
+Languages: [e.g., Python, JavaScript, HTML/CSS]
+Frameworks/Libraries: [e.g., React, Django, Express]
+Tools & Technologies: [e.g., Git, Docker, AWS]
+💡 About Me
+I’m [Your Name], a [Your Role/Title, e.g., Full Stack Developer] with a passion for [Your Interests or Specializations, e.g., creating user-friendly web applications]. I have experience in [Brief Summary of Your Experience or Background].
 
-## 💡 About Me
-
-I'm Yavya Sharma, a Full Stack Developer with a passion for creating innovative digital solutions. My journey includes education in Computer Applications, professional experience at Capgemini, and founding Byte Sphere Digital.
-
-## 🌟 Education & Experience
-
-- **Post Graduation**: Master in Computer Applications at JECRC University, Jaipur (2023-2025)
-- **A4 Analyst at Capgemini**: Worked on enterprise-level software development projects (2025-Present)
-- **Founded Byte Sphere Digital**: Created a digital solutions company as founder and CEO (2025-Present)
-- **Graduation**: Bachelor in Computer Application from MLSU University, Udaipur (2020-2023)
-- **Internship**: Three-month internship at WEBaniX in Web Development using Angular.js and Laravel (2023)
-
-## 📞 Get in Touch
-
-I'm always open to discussing new projects, collaborations, or opportunities. You can reach me at:
+🌟 Highlights
+[Highlight 1: Achievement, certification, or notable skill]
+[Highlight 2: Award, project milestone, or significant contribution]
+📞 Get in Touch
+I’m always open to discussing new projects, collaborations, or opportunities. You can reach me at:
 
 - **Email**: yavya.sharma21@gmail.com
 - **LinkedIn**: [Yavya Sharma](https://www.linkedin.com/in/yavya-sharma-863225165)
