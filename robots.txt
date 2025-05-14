@@ -1,0 +1,14 @@
+# Allow all crawlers
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://yavyasharma.netlify.app/sitemap.xml
+
+# Disallow crawling of any private or sensitive directories
+Disallow: /private/
+Disallow: /admin/
+Disallow: /temp/
+
+# Crawl-delay for all bots
+Crawl-delay: 10 
