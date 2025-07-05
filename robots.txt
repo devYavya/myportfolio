@@ -2,13 +2,35 @@
 User-agent: *
 Allow: /
 
+# Allow all search engines to crawl the site
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+# Allow crawling of important pages
+Allow: /index.html
+Allow: /YavyaResume.pdf
+Allow: /profile.jpg
+Allow: /profile2.jpg
+
+# Disallow crawling of unnecessary files
+Disallow: /favicon.ico
+Disallow: /site.webmanifest
+Disallow: /google0b3679eeaa6c5749.html
+Disallow: /sitemap.xml
+
+# Crawl delay for respectful crawling
+Crawl-delay: 1
+
 # Sitemap location
 Sitemap: https://yavyasharma.netlify.app/sitemap.xml
 
 # Disallow crawling of any private or sensitive directories
 Disallow: /private/
 Disallow: /admin/
-Disallow: /temp/
-
-# Crawl-delay for all bots
-Crawl-delay: 10 
+Disallow: /temp/ 
